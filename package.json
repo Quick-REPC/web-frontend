@@ -14,7 +14,6 @@
   "bugs": {
     "url": "https://github.com/Quick-REPC/web-frontend/issues"
   },
-  "homepage": "https://github.com/Quick-REPC/web-frontend#readme",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
