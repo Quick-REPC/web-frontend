@@ -26,7 +26,7 @@
     "validate": "npm run lint && npm run prettier -- --list-different"
   },
   "dependencies": {
-    "@sentry/browser": "^5.6.3",
+    "@sentry/browser": "^5.10.2",
     "axios": "^0.19.0",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
